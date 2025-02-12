@@ -1,4 +1,4 @@
-Analisi di un Database Bancario
+### Analisi di un Database Bancario
 
 Il progetto è stato realizzato al termine del corso di SQL nel Master di Data Analyst di ProfessionAI ed è stato revisionato durante la prima settimana di febbraio 2025. 
 Lo scopo del progetto era costruire una tabella denormalizzata che riepilogasse i dati contenuti in un database bancario fittizio.
