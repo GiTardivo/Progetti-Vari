@@ -43,3 +43,6 @@ Ogni cartella include un proprio README che fornisce informazioni specifiche sul
 ### [Altri Progetti]
 
 
+### Nota all'utilizzo
+
+Il contenuto di questa repository è indirizzato ai recruiter allo scopo di mostrare nella pratica le mie competenze. Ogni utilizzo al di fuori di questo scopo è da considerarsi non autorizzato. I progetti sono stati realizzati personalmente, mentre i crediti per i dati saranno indicati nel ReadMe di ogni progetto.
