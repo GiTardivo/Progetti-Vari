@@ -38,6 +38,7 @@ La cartella del progetto contiene i seguenti file:
 ## Tecnologie Utilizzate
 
   📶   SQL: per la scrittura delle query.
+
   🐋   MySQL: come sistema di gestione del database per importare i dati ed eseguire le query.
 
 ## Considerazioni Finali
