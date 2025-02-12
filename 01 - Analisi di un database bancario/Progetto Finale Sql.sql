@@ -3,6 +3,38 @@ ANALISI DELLA CLIENTELA DI UN DATABASE BANCARIO
 L'obiettivo della presente analisi è la costruzione di una tabella denormalizzata che riepiloghi i dati forniti da
 una banca sulla sua clientela, allo scopo di prendere decisioni data-driven. Ho creato 4 tab una per ogni tipo di indicatore 
 per gestire più facilmente la costruzione della tab finale.
+
+ANALISI ESPLORATIVA DEI DATI
+In prima analisi saranno esplorati i dati forniti dalla banca.
+
+Il database si compone delle seguenti tabelle:
+- la tabella "cliente" contiene informazioni anagrafiche sulla clientela;
+- la tabella "conto" contiene informazioni sui conti posseduti dai clienti;
+- la tabella "tranzazioni" contiene informazioni sulle transazioni dei clienti;
+- la tabella "tipo_conto" è una tabella informativa sui tipi di conto messi a disposizione dalla banca;
+- la tabella "tipo_transazione" è una tabella informativa sui tipi di transazione ammessi dalla banca.
+*/
+
+-- La tabella "cliente" memorizza l'identificativo del cliente (id_cliente),
+-- il nome (nome, cognome) e la data di nascita (data_nascita).
+select * from banca.cliente;
+
+-- La tabella "conto" memorizza l'identificativo del conto (id_conto),
+-- l'identificativo del proprietario del conto (id_cliente) e l'identificativo del tipo di conto (id_tipo_conto).
+select * from banca.conto;
+
+-- La tabella "transazioni" memorizza la data della transazione (data), l'identificativo del tipo di transazione
+-- (id_tipo_transazione), l'importo transato (importo) e l'identificativo del conto (id_conto).
+select * from banca.transazioni;
+
+-- La tabella "tipo_conto" è una tabella informativa che associa a ogni identificativo del tipo di conto
+-- (id_tipo_conto) la sua descrizione (desc_tipo_conto).
+select * from banca.tipo_conto;
+
+-- La tabella "tipo_transazione" è una tabella informativa che associa a ogni identificativo del tipo di transazione
+-- (id_tipo_transazione) la sua descrizione (desc_tipo_trans) e il suo segno (segno).
+select * from banca.tipo_transazione;
+
 ---------------------------------------------------------------------------------
 /* CREAZIONE DI 4 TABELLE UNA PER OGNI GRUPPO DI INDICATORI */
 
