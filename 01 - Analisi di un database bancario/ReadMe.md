@@ -12,9 +12,13 @@ Esplorazione del database:
 
 Costruzione di indicatori:
  Sono state create quattro tabelle temporanee, ognuna contenente un gruppo di indicatori:
+
 Indicatori di Base: contiene l'età dei clienti.
+
 Indicatori sulle Transazioni: aggrega il numero di transazioni e gli importi totali transati (entrata e uscita) per cliente.
+
 Indicatori sui Conti: riepiloga il numero totale di conti e il numero di conti per tipologia (Base, Business, Privati, Famiglie).
+
 Indicatori sulle Transazioni per Tipologia di Conto: aggrega il numero di transazioni e gli importi transati per ogni tipo di conto, sia per le transazioni in entrata che per quelle in uscita.
 
 Tabella Denormalizzata:
