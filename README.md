@@ -21,12 +21,6 @@ L’obiettivo del progetto è la costruzione di una tabella denormalizzata che r
 
 ---
 
-### [Altri Progetti]
-
-_Aggiungi qui le descrizioni e i file principali degli altri progetti presenti nella repository._
-
----
-
 ## Tecnologie Utilizzate
 
 - **SQL:** Utilizzato per scrivere tutte le query e gli script.  
@@ -45,3 +39,7 @@ La repository è organizzata in cartelle, una per ciascun progetto. Ad esempio:
 Ogni cartella include un proprio README che fornisce informazioni specifiche sul progetto.
 
 ---
+
+### [Altri Progetti]
+
+
