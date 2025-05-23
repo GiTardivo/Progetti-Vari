@@ -42,7 +42,7 @@ Ogni cartella include un proprio README che fornisce informazioni specifiche sul
 
 # Analisi dei disastri aerei dal 1919 al 2023
 
-Il progetto analizza i dati relativi ai disastri aerei che si sono verificati tra il 1919 e il 2023. Il notebook è stato realizzato per il corso di Python Data Toolkit nel Master di Data Analyst di ProfessionAI ed è stato revisionato nel dicembre 2024.
+Il progetto analizza i dati relativi ai disastri aerei che si sono verificati tra il 1919 e il 2023. Il notebook è stato realizzato per il corso di Python Data Toolkit nel Master di Data Analyst di ProfessionAI ed è stato revisionato nel maggio 2025.
 
 ## Specifiche
 
