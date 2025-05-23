@@ -6,7 +6,7 @@ Questa repository raccoglie una serie di progetti realizzati nell'ambito del mio
 
 ## Progetti Inclusi
 
-### 01 - Analisi di un Database Bancario
+## 01 - Analisi di un Database Bancario
 
 **Descrizione:**  
 L’obiettivo del progetto è la costruzione di una tabella denormalizzata che riepiloghi i dati relativi alla clientela di una banca fittizia. Il progetto ha incluso l’esplorazione del database, la creazione di indicatori (anagrafici e operativi) e l’aggregazione dei dati per supportare decisioni data-driven.
@@ -40,7 +40,7 @@ Ogni cartella include un proprio README che fornisce informazioni specifiche sul
 
 ---
 
-### 02 - Analisi dei disastri aerei dal 1919 al 2023
+## 02 - Analisi dei disastri aerei dal 1919 al 2023
 
 Il progetto analizza i dati relativi ai disastri aerei che si sono verificati tra il 1919 e il 2023. Il notebook è stato realizzato per il corso di Python Data Toolkit nel Master di Data Analyst di ProfessionAI ed è stato revisionato nel maggio 2025.
 
