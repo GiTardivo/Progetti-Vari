@@ -8,7 +8,7 @@ Il progetto simulava la richiesta da parte di un'azienda di creare un modello pe
 
 Al notebook relativo al progetto si aggiungono i seguenti file:
 - Il file CSV *credit_card_customers.csv*, creato da ProfessionAI e su cui si basa il progetto;
-- La cartella *output_data* in cui sono contenuti i file CSV creati nel corso del progetto.
+- Il file jupyter del progetto
 
 ## Tecnologie utilizzate
 
