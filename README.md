@@ -63,7 +63,7 @@ Il progetto simulava la richiesta da parte di un'associazione per voli sicuri di
 
 ---
 
-# 03 - Segmentazione della clientela di un'azienda di prodotti finanziari
+## 03 - Segmentazione della clientela di un'azienda di prodotti finanziari
 
 Il progetto riguarda un'attività di segmentazione della clientela di un'azienda fittizia. Il notebook è stato realizzato per il corso di Fondamenti di Machine Learning nel Master di Data Analyst di ProfessionAI ed è stato revisionato nel novembre 2024.
 
