@@ -65,6 +65,4 @@ Questo progetto fornisce una visione approfondita delle performance di piloti e 
 
 ---
 
-## 📜 Licenza
-Distribuito sotto licenza MIT. Vedi il file `LICENSE` per ulteriori dettagli.
 
