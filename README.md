@@ -109,6 +109,27 @@ Attraverso l'uso di **Excel avanzato**, sono stati introdotti strumenti per anal
 - 🔍 Migliore identificazione delle problematiche con report dettagliati e analisi avanzate  
 - 📊 Decisioni più informate, grazie a insight chiari sui reclami più frequenti  
 
+
+## 🏎️ 05 - Analisi dei Piloti del Mondiale di Formula 1 (2008)
+
+## 📌 Descrizione del Progetto
+**F1 Analytics** ha intrapreso un progetto per analizzare i risultati del **Campionato Mondiale di Formula 1 2008**.  
+Utilizzando i dati contenuti nel file `formula1_data.csv`, l’obiettivo è implementare funzionalità per studiare **punti, vittorie e podi**, sia a livello individuale che di **costruttori**.
+
+## 🎯 Obiettivi del Progetto
+
+### 1️⃣ Analisi delle Performance Individuali
+Creare una funzione che, dato un pilota in input, restituisce:
+- Totale dei **punti accumulati**  
+- Numero di **vittorie** (1° posto)  
+- Numero di **podi** (posizioni 1–3)  
+
+## 🚀 Tecnologie Utilizzate
+- Python 3.x  
+- Pandas  
+- Matplotlib  
+
+
 ### [Altri Progetti]
 
 
