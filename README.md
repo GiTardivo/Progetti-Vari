@@ -88,7 +88,7 @@ Al notebook relativo al progetto si aggiungono i seguenti file:
 🤝 Google Colaboratory per la revisione
 
 
-# 📊04 - Analisi Reclami Consumatori / Consumer Complaints Analysis
+## 📊04 - Analisi Reclami Consumatori / Consumer Complaints Analysis
 
 ## 📌 Descrizione del progetto (IT)
 
