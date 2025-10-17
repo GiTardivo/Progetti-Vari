@@ -142,8 +142,19 @@ Il progetto mira a migliorare e ottimizzare il foglio di calcolo esistente, che 
 ## 🚀 Tecnologie Utilizzate
 - Excel Avanzato
 
+## 07 -  Dati casuali e regressione lineare
+
+## Contesto e Obiettivo del Progetto
+
+In un’azienda data-driven, la capacità di generare e manipolare dati verosimili è essenziale per simulare scenari reali, supportare la formazione dei dipendenti e testare ipotesi di mercato. Questo progetto si concentra sulla creazione di un dataset realistico utilizzando un foglio di calcolo, con l'obiettivo di fornire uno strumento efficace per testare tecniche di analisi statistica e modelli di previsione.
+
+## Descrizione del Progetto
+
+L'azienda intende generare dati casuali ma significativi riguardanti la popolazione immaginaria di "Luggnagg". Il focus è su una distribuzione normale per l’età della popolazione, che simuli un campione di 250 individui. Il foglio di calcolo creato sarà strutturato in più schede (tab), ognuna con una funzione specifica che riflette i concetti di statistica appresi.
 
 
+## 🚀 Tecnologie Utilizzate
+- Excel Avanzato
 
 
 
