@@ -129,6 +129,30 @@ Creare una funzione che, dato un pilota in input, restituisce:
 - Pandas  
 - Matplotlib  
 
+## 06 - Analisi di operazioni di trading
+
+## Descrizione del Progetto
+
+Questo progetto è stato sviluppato per FinTrack Solutions, un'azienda che offre strumenti avanzati per il monitoraggio e l'analisi delle performance finanziarie. L'obiettivo principale è trasformare un semplice foglio di calcolo in uno strumento di analisi dinamico e visivamente efficace, permettendo di ottenere insights rilevanti sulle operazioni di trading di Bob, il nostro cliente principale.
+
+## Obiettivo del Progetto
+
+Il progetto mira a migliorare e ottimizzare il foglio di calcolo esistente, che traccia le operazioni finanziarie svolte da Bob dal 1° gennaio 2021. L'obiettivo è fornire un'analisi completa delle operazioni di trading, consentendo di prendere decisioni strategiche basate su dati accuratamente strutturati.
+
+## 🚀 Tecnologie Utilizzate
+- Excel Avanzato
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### [Altri Progetti]
 
